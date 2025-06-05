@@ -1,2 +1,2 @@
-# barbearia-
-aprendendo
+# barba
+Pagina comercial para aprendizagem.
